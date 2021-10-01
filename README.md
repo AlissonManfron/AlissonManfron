@@ -1,4 +1,4 @@
-### Olá! Eu sou o Alisson Manfron, desenvolvedor Android e iOS nas horas vagas!
+### Olá! Eu sou o Alisson, desenvolvedor Android e iOS nas horas vagas!
 
 <div href="https://github.com/AlissonManfron">
   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/?username=AlissonManfron&theme=radical&show_icons=true" />
