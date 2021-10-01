@@ -20,4 +20,4 @@
    
 </div> 
 
-![Snake animation](https://github.com/AlissonManfron/AlissonManfron/blob/output-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AlissonManfron/AlissonManfron/blob/output/github-contribution-grid-snake.svg)
