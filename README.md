@@ -1,7 +1,7 @@
 ### Olá! Bem vindo(a) ao meu GitHub, aqui você vai encontrar alguns projetos de estudo de Android, iOS e NodeJS.
 
 <div href="https://github.com/AlissonManfron">
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/?username=AlissonManfron&theme=radical&show_icons=true" />
+  <img height="185em" width="380em" src="https://github-readme-stats.vercel.app/api/?username=AlissonManfron&theme=radical&show_icons=true" />
   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonManfron&layout=compact&langs-count=15&theme=radical" />
 </div>
 
