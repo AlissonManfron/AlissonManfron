@@ -1,7 +1,7 @@
 
 <div href="https://github.com/AlissonManfron">
-  <img height="198em" width="380em" src="https://github-readme-stats.vercel.app/api/?username=AlissonManfron&theme=radical&show_icons=true" />
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonManfron&layout=compact&langs-count=15&theme=radical" />
+  <img height="198em" width="380em" src="https://github-readme-stats.vercel.app/api/?username=AlissonManfron&theme=radical&show_icons=true&count_private=true" />
+  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonManfron&layout=compact&langs-count=10&theme=radical" />
 </div>
 
 ## Linguagens:
